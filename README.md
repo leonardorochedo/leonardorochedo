@@ -1,4 +1,9 @@
-### Olá! Eu sou o Leonardo
+### Olá! Eu sou o Leonardo, Prazer! 👋
+
+- 📌 Tamarana - PR
+- 📚 Analise e Desenvolvimento de Sistemas (IFPR)
+- 👨‍💻 HTML5 CSS JAVASCRIPT | Front - End
+- 💼 Procurando Estágio na área DEV
 
 <div align="center">
   <a href="https://github.com/leonardorochedo">
