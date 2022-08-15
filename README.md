@@ -3,7 +3,6 @@
 - 📌 Londrina - PR
 - 📚 Analise e Desenvolvimento de Sistemas (IFPR)
 - 👨‍💻 ReactJS TypeScript JavaScript HTML CSS | Front End Developer
-- 💼 Procurando Estágio na área DEV
 
 <div align="center">
   <a href="https://github.com/leonardorochedo">
