@@ -1,4 +1,4 @@
-### Olá! Eu sou o Leonardo, Prazer! 👋
+## Olá! Eu sou o Leonardo, Prazer! 👋
 
 #### Seja Bem vindo(a) ao meu perfil do GitHub!
 - 📌 Atualmente moro em Londrina - PR
