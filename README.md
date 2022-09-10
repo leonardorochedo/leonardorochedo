@@ -4,6 +4,7 @@
 - 📌 Atualmente moro em Londrina - PR
 - 📚 Estou cursando Analise e Desenvolvimento de Sistemas (IFPR)
 - 👨‍💻 Desenvolvedor Front End
+- 🧑 www.leonardorochedo.com.br
 
 ### Tecnologias que estou utilizando ⬇️
 <div style="display: inline_block"><br>
