@@ -3,7 +3,7 @@
 #### Seja Bem vindo(a) ao meu perfil do GitHub!
 - 📌 Atualmente moro em Londrina - PR
 - 📚 Estou cursando Analise e Desenvolvimento de Sistemas (IFPR)
-- 👨‍💻 Desenvolvedor Web
+- 👨‍💻 Desenvolvedor Full Stack
 - 🧑 www.leonardorochedo.com.br
 
 ### Tecnologias que estou utilizando ⬇️
