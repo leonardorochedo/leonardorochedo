@@ -31,6 +31,6 @@
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/leonardorochedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://instagram.com/leonardorochedo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:leonardrochedo@outlook.com.br"><img src="https://img.shields.io/badge/Gmail-FFFF00?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:leonardrochedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFF00?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href = "mailto:learnir@outlook.com.br"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
 </div><br>
