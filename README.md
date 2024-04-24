@@ -1,12 +1,12 @@
-## Olá! Eu sou o Leonardo, Prazer! 👋
+## Hello! I'm Leonardo, Nice to meet you! 👋
 
-#### Seja Bem vindo(a) ao meu perfil do GitHub!
-- 📌 Atualmente moro em Londrina - PR
-- 📚 Graduado em Analise e Desenvolvimento de Sistemas (IFPR)
-- 👨‍💻 Desenvolvedor Full Stack me especializando no Backend
+#### Welcome to my GitHub profile!
+- 👨‍💻 Software Engineer
+- 📚 Graduated in Systems Analysis and Development (IFPR)
+- 📌 Currently living in Londrina - PR
 - 🧑 www.leonardorochedo.com.br
 
-### Tecnologias
+### Technologies
 <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -20,7 +20,7 @@
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 </div><br>
   
-### Redes 🌎
+### Networks 🌎
 <div style="display: inline_block"><br>
   <a href="https://www.linkedin.com/in/leonardorochedo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:leonardrochedo@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFFF00?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
