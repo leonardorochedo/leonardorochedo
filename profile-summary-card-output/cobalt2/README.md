@@ -32,3 +32,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/leonardorochedo/leonardorochedo/main/profile-summary-card-output/cobalt2/4-productive-time.svg)
+```
+
+    
